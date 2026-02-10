@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a Computer Science student who loves to learn to build things I'm passionate about.
 <!--
 **Jigar-M/Jigar-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
