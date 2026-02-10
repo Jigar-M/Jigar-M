@@ -1,5 +1,15 @@
-## Hi there 👋
-I'm a Computer Science student who loves to learn to build things I'm passionate about.
+# Hi there! 👋
+I'm Jigar, a Computer Science student in Alberta. I enjoy learning to build things I'm passionate about.
+
+My interest in AI and LLMs lead me to build a [Tic-Tac-Toe](https://github.com/Jigar-M/AI-TicTacToe) game.
+
+Currently, I am working on a [ChatBot](https://github.com/Jigar-M/ChatBot) to further my understanding on LLMs.
+
+Hobbies:
+- TCGs
+- Reading
+- Gaming
+
 <!--
 **Jigar-M/Jigar-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
